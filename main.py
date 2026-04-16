@@ -12,5 +12,4 @@ m, n = images.shape
 print(m, n)
 
 
-
 #print(mndata.display(images[0]))
